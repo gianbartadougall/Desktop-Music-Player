@@ -8,6 +8,6 @@ Current features
 - ability to create playlists out of saved videos
 
 This application is still an active project with more planned features to be added. So far the youtube side works, what I will be adding 
-soon is functionality to connect to your spotify, sound cloud and applue music accounts to create playlists with all your music in one 
+soon is functionality to connect to your spotify, sound cloud and apple music accounts to create playlists with all your music in one 
 place
 
